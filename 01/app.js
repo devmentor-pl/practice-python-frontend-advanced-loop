@@ -6,5 +6,5 @@ if (randomNumber >= 5) {
     }
 }
 else{
-    console.log("wylosowana liczba mniejsza od 5")
+    console.log("Wylosowana liczba jest zbyt mała, aby użyć pętli")
 }
